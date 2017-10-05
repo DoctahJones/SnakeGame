@@ -145,9 +145,3 @@
 /processorParam:TextureFormat=Color
 /build:Graphics/mainMenuBackground.png
 
-#begin Fonts/snakeFont.spritefont
-/importer:FontDescriptionImporter
-/processor:FontDescriptionProcessor
-/processorParam:TextureFormat=Compressed
-/build:Fonts/snakeFont.spritefont
-
